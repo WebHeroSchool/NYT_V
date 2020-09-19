@@ -1,0 +1,27 @@
+.menu {
+  font-family: Helvetica;
+}
+
+.newspaper__title {
+  font-family: 'IBM Plex Serif', serif;
+  text-align: center;
+}
+
+.menu__item {
+  font-family: 'IBM Plex Serif', serif;
+}
+
+.article {
+  font-family: 'IBM Plex Serif', serif;
+}
+
+.article__title {
+  font-family: 'Tenor Sans', sans-serif;
+}
+
+.artocle__description {
+  font-family: 'IBM Plex Serif', serif;
+}
+.article__main {
+  font-family: 'IBM Plex Serif', serif;
+}
